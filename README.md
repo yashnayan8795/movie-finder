@@ -1,10 +1,10 @@
-# movie-finder
+# FlickFind
 
 Your go-to movie search and recommendation app! This React-based application allows users to search for movies, view detailed information, and receive recommendations.
 
 ## Overview
 
-CineScope is a movie search and recommendation web application built using React. It utilizes the OMDB API to fetch movie details and displays them in a user-friendly interface. Users can search for movies by title and receive recommendations based on their search queries.
+FlickFind is a movie search and recommendation web application built using React. It utilizes the OMDB API to fetch movie details and displays them in a user-friendly interface. Users can search for movies by title and receive recommendations based on their search queries.
 
 ## Installation
 
@@ -14,7 +14,8 @@ CineScope is a movie search and recommendation web application built using React
   
      ```sh
      git clone https://github.com/yourusername/CineScope.git
-     cd CineScope
+     cd my-react-app
+     
   2.Install dependencies:
   
       npm install
@@ -47,7 +48,7 @@ CineScope is a movie search and recommendation web application built using React
   1.Clone your forked repository:
 
       git clone https://github.com/yourusername/CineScope.git
-      cd CineScope
+      cd my-react-app
 
   2.Create a new branch:
   
