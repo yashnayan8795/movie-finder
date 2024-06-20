@@ -13,7 +13,7 @@ FlickFind is a movie search and recommendation web application built using React
   1. Clone the repository:
   
      ```sh
-     git clone https://github.com/yourusername/CineScope.git
+     git clone https://github.com/yashnayan8795/movie-finder.git
      cd my-react-app
      
   2.Install dependencies:
@@ -47,7 +47,7 @@ FlickFind is a movie search and recommendation web application built using React
   
   1.Clone your forked repository:
 
-      git clone https://github.com/yourusername/CineScope.git
+      git clone https://github.com/yashnayan8795/movie-finder.git
       cd my-react-app
 
   2.Create a new branch:
