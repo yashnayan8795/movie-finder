@@ -66,6 +66,10 @@ FlickFind is a movie search and recommendation web application built using React
   5.Create a pull request:
   
     Go to the original repository and click "New pull request" to review and submit your changes.
+##ScreenShot
+  ![image](https://github.com/yashnayan8795/movie-finder/assets/115628084/1be290d9-0147-4af2-9718-f8d778e7a95f)
+
+
 
 ##License
 
